@@ -1,0 +1,4 @@
+I built an EC2 to RDS MySQL application using AWS best practices.
+The EC2 instance uses an IAM role to read database credentials from Secrets Manager.
+The RDS database is private and only allows MySQL access from the EC2 security group.
+I verified the setup using automated gate scripts, and all checks passed.
