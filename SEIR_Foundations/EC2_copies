@@ -1,3 +1,0 @@
-REGION=us-east-1 INSTANCE_ID=533972479438 SECRET_ID=lab/rds/mysql ./gate_secrets_and_role.sh
-533972479438 AWS ID 
-Instance ID i-054f92978a5914153
